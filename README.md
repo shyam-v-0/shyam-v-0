@@ -131,16 +131,16 @@ I believe the best way to learn development is by **building real projects, solv
 
 <p align="center">
 
-<a href="linkedin.com/in/shyam-v-4779b6357">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shyam-v-4779b6357">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-orcin-nine-jcz1lactkt.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-facc15?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
 
-<a href="shyamvisu123@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:shyamvisu123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
