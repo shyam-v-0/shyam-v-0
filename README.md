@@ -1,45 +1,84 @@
 # 👋 Hi, I'm Shyam V
 
-### 🚀 Frontend Developer | React.js | JavaScript | AI Engineering
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Full-Stack+Developer;AI+Engineering+Enthusiast" />
+</p>
 
-I'm a **Computer Science graduate** passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world products and exploring how **AI can be integrated into modern web applications**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-### 👨‍💻 About Me
+---
 
-* 🎓 BCA Graduate – 2025
-* 💻 Focused on **Frontend & Full-Stack Development**
-* 🤖 Completed an **AI Engineering Course at Stoz Academy**
-* ⚛️ Experienced with **React.js & JavaScript**
-* 🌐 Skilled in **HTML, CSS, Tailwind CSS, Bootstrap & Material UI**
-* 🛠️ Backend experience with **Node.js, Express.js & FastAPI**
-* 🗄️ Experience with **MongoDB & MySQL**
-* 🔌 Built applications using **REST APIs and CRUD operations**
-* 🌱 Continuously learning and building real-world projects
-* 🤝 Open to collaborating on web development and AI-powered projects
-* 💼 Open to **Frontend / Full-Stack Developer opportunities**
-* 📍 Chennai, India
+## 🚀 About Me
 
-### 🛠️ Tech Stack
+🎓 BCA Graduate – 2025  
+💻 Frontend & Full-Stack Developer  
+🤖 AI Engineering Course – Stoz Academy  
+⚛️ React.js & JavaScript  
+🌐 Node.js, Express.js & FastAPI  
+🗄️ MongoDB & MySQL  
+📍 Chennai, India  
 
-**Frontend**
-React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Material UI
+I love building **modern, responsive web applications** and exploring how **AI can be integrated into real-world products**.
 
-**Backend**
-Node.js • Express.js • FastAPI • REST APIs
+---
 
-**Database**
-MongoDB • MySQL
+## 🛠️ Tech Stack
 
-**AI / Development**
-AI Engineering • Python • Context API
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,nodejs,express,python,fastapi,mongodb,mysql,git,github,vscode" />
+</p>
 
-**Tools**
-Git • GitHub • VS Code • Vite
+---
 
-### 🎯 Currently
+## 📌 Featured Projects
 
-I'm focused on strengthening my **Frontend and Full-Stack Development** skills while exploring **AI-powered web applications** and building projects that solve real-world problems.
+🚀 **Student Management System**  
+React + Node.js + MongoDB CRUD application
 
-### 📫 Let's Connect
+🛒 **E-Commerce Application**  
+Modern responsive e-commerce interface
 
-I'm always open to learning, collaborating, and connecting with developers and tech enthusiasts!
+📋 **Task Manager**  
+CRUD application with API integration
+
+🤖 **AI-Powered Projects**  
+Exploring AI integration with modern web applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
