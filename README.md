@@ -119,14 +119,6 @@ I completed an **AI Engineering course at Stoz Academy**, expanding my developme
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06F7FF&text_color=FFFFFF" />
-</p>
-
----
-
 ## 💡 Developer Philosophy
 
 > "Build. Break. Learn. Improve. Repeat. 🚀"
