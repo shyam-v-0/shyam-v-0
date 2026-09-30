@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=06F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+%7C+JavaScript+Developer;Full-Stack+Developer;AI+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=06F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+%7C+JavaScript+Developer;Full-Stack+Developer;AI+Engineering+In+FullStack" />
 </p>
 
 <p align="center">
@@ -14,55 +14,29 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```javascript
-const shyam = {
-    education: "BCA Graduate - 2025",
-    role: "Frontend / Full-Stack Developer",
-    location: "Chennai, India",
+Hi, I'm **Shyam V**, a **Frontend / Full-Stack Developer** from Chennai, India.
 
-    frontend: [
-        "React.js",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Tailwind CSS",
-        "Bootstrap",
-        "Material UI"
-    ],
+🎓 **BCA Graduate – 2025**  
+💻 Passionate about building modern and responsive web applications  
+⚛️ Experienced with **React.js, JavaScript, HTML, CSS, Tailwind CSS & Material UI**  
+🌐 Backend experience with **Node.js, Express.js & FastAPI**  
+🗄️ Familiar with **MongoDB & MySQL**  
+🤖 Completed an **AI Engineering Course at Stoz Academy**  
+🔧 Comfortable with **Git, GitHub, VS Code & Vite**  
+🚀 Interested in building **AI-powered and full-stack applications**
 
-    backend: [
-        "Node.js",
-        "Express.js",
-        "FastAPI"
-    ],
+### 🎯 Currently Learning
 
-    databases: [
-        "MongoDB",
-        "MySQL"
-    ],
+- Advanced React.js
+- Full-Stack Development
+- AI-powered applications
+- Backend & API development
 
-    ai: "AI Engineering - Stoz Academy",
+### 💡 My Goal
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Vite"
-    ],
-
-    currentlyLearning: [
-        "Advanced React",
-        "Full-Stack Development",
-        "AI-powered Applications"
-    ],
-
-    goal: "Build useful products and grow as a professional developer 🚀"
-};
-```
-
----
+> To build useful real-world applications, continuously improve my skills, and grow as a professional developer. 🚀
 
 ## 🧑‍💻 What I Do
 
